@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Learning
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## npx create-react-app learning --template typescript
 ## Available Scripts
 
 In the project directory, you can run:
